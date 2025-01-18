@@ -64,5 +64,5 @@ Here’s a simple explanation of the tags inside the `<body>` section:
 5. `</p>`  
    - This is the closing tag for the paragraph.
    - It tells the browser the paragraph content is finished.
+
   
-Screenshot
