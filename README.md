@@ -37,7 +37,7 @@ Here’s a simple explanation of each line in your HTML boilerplate:
 
 
 
-## Screenshots
+## Screenshot
 ![image alt](https://github.com/dishagiri23/HTML-Series/blob/e7a99ff60a4cb02072223f7b8d63076b35d7f9db/day1.png)
 
 ## DAY 2
@@ -64,3 +64,5 @@ Here’s a simple explanation of the tags inside the `<body>` section:
 5. `</p>`  
    - This is the closing tag for the paragraph.
    - It tells the browser the paragraph content is finished.
+  
+Screenshot
