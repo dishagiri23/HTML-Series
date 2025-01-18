@@ -1,7 +1,7 @@
 
 ##  HTML Series :point_down:
 
-### DAY 1
+### DAY 1 :point_up:
 
 Here’s a simple explanation of each line in your HTML boilerplate:
 
