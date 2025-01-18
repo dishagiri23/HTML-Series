@@ -1,7 +1,7 @@
 
 ##  HTML Series 
 
-DAY 1
+### DAY 1
 
 Here’s a simple explanation of each line in your HTML boilerplate:
 
