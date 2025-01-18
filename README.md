@@ -65,4 +65,4 @@ Here’s a simple explanation of the tags inside the `<body>` section:
    - This is the closing tag for the paragraph.
    - It tells the browser the paragraph content is finished.
 
-  
+  ## Screenshots
