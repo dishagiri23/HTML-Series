@@ -1,5 +1,5 @@
 
-##  HTML Series 
+##  HTML Series :point_down:
 
 ### DAY 1
 
