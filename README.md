@@ -68,4 +68,4 @@ Here’s a simple explanation of the tags inside the `<body>` section:
   ## Screenshot
 ![image alt](https://github.com/dishagiri23/HTML-Series/blob/444676ef3d97977fdafdfb71d77d8bc8ec03c777/day%202.png)
 
-In this way, I will complete my HTML series with consistency
+# In this way, I will complete my HTML series with consistency
