@@ -40,3 +40,27 @@ Here’s a simple explanation of each line in your HTML boilerplate:
 ## Screenshots
 ![image alt](https://github.com/dishagiri23/HTML-Series/blob/e7a99ff60a4cb02072223f7b8d63076b35d7f9db/day1.png)
 
+## DAY 2
+
+Here’s a simple explanation of the tags inside the `<body>` section:
+
+1. `<h1>1st heading</h1>`  
+   - This is a heading tag.
+   - It creates a large and bold heading called "1st heading."
+   - `h1` is the most important heading, and it is usually used for the main title of the page.
+
+2. `<!--Heading tag is usually 6 types from h1 to h6-->`  
+   - This is a **comment** in HTML.
+   - Comments are notes for developers and do not appear on the webpage.
+
+3. `<p>`  
+   - This is a paragraph tag.
+   - It is used to write text content in a block format.
+
+4. `<br>`  
+   - This is a line break tag.
+   - It moves the text to a new line without starting a new paragraph.
+
+5. `</p>`  
+   - This is the closing tag for the paragraph.
+   - It tells the browser the paragraph content is finished.
