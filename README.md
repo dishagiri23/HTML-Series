@@ -66,3 +66,4 @@ Here’s a simple explanation of the tags inside the `<body>` section:
    - It tells the browser the paragraph content is finished.
 
   ## Screenshot
+![image alt](https://github.com/dishagiri23/HTML-Series/blob/444676ef3d97977fdafdfb71d77d8bc8ec03c777/day%202.png)
